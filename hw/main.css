@@ -1,0 +1,18 @@
+body{
+    padding: 7px;
+    background-color: gainsboro;
+
+}
+h1,h2,h3{
+    padding: 10px;
+    margin: auto;
+}
+#carti{
+    height: 350px;
+}
+.type{
+    margin: 5px;
+}
+.talign{
+    text-align: center;
+}

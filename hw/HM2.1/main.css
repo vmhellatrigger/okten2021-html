@@ -1,0 +1,26 @@
+h1{
+    padding-top: 5px;
+    text-align: center;
+    background-color: #822625;
+    color: #eee2cc;
+}
+.p1{
+    background-color: #acacac;
+    padding: 15px;
+}
+.p2{
+    background-color: #5e8ddd;
+    padding: 30px;
+    text-indent: -30px ;
+}
+.square1{
+    background: #68b364;
+    height: 250px;
+    width: 250px;
+}
+.square2{
+    background: #8986a8;
+    height: 250px;
+    width: 250px;
+    border-radius: 10%;
+}

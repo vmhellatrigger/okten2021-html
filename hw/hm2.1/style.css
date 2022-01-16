@@ -1,0 +1,47 @@
+body{
+    background-color: #2d2a2e;
+}
+.orange{
+    height: 28px;
+    width: 165px;
+    border:orange 3px solid;
+    color: orange;
+    border-radius: 25px;
+    text-align: center;
+    margin: auto;
+    padding-top: 5px;
+    margin-top: 200px;
+}
+.blue{
+    height: 28px;
+    width: 165px;
+    border: aqua 3px solid;
+    color: aqua;
+    border-radius: 25px;
+    text-align: center;
+    margin: auto;
+    padding-top: 5px;
+    margin-top: 10px;
+}
+.pink{
+    height: 28px;
+    width: 165px;
+    border: pink 3px solid;
+    color: pink;
+    border-radius: 25px;
+    text-align: center;
+    margin: auto;
+    padding-top: 5px;
+    margin-top: 10px;
+}
+.red{
+    height: 28px;
+    width: 165px;
+    border: red 3px solid;
+    color: darkred;
+    border-radius: 25px;
+    text-align: center;
+    margin: auto;
+    padding-top: 5px;
+    margin-top: 10px;
+}

@@ -1,0 +1,24 @@
+.wrap{
+    border: 5px solid dimgrey;
+    border-radius: 17px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 5px;
+    height: 720px;
+}
+.block_A{
+    height: 300px;
+    width: 100%;
+    background-color: silver;
+}
+.block_B{
+    background-color: silver;
+    height: 400px;
+    width: 70%;
+}
+.block_C{
+    height: 400px;
+    width: 29%;
+    background-color: silver;
+}

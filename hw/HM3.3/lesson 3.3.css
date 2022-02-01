@@ -1,0 +1,45 @@
+body{
+    background-color: #3f3f3f;
+}
+.BW1
+{
+    background: dodgerblue;
+    color: white;
+    height: 90px;
+    width: 90px;
+    text-align: center;
+    margin: 5px;
+    display: flex;
+}
+.Big2
+{
+    height: auto;
+    width: auto;
+    display: flex;
+}
+.Wid1
+{
+    background: rgb(30, 90, 255);
+    color: white;
+    height: 140px;
+    width: 290px;
+    display: flex;
+    text-align: center;
+    margin: 5px;
+}
+.BigW2
+{
+    background: rgb(30, 90, 255);
+    color: white;
+    height: 290px;
+    width: 290px;
+    display: flex;
+    text-align: center;
+    margin: 5px;
+}
+p {
+    margin: auto;
+}
+.p1 {
+    font-size: 18px;
+}
